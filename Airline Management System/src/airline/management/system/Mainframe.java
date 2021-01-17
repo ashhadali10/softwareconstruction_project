@@ -12,7 +12,7 @@ public class Mainframe extends JFrame{
     }
     
     public Mainframe() {
-        super("AIRLINE RESERVATION MANAGEMENT SYSTEM");
+        super("AIRLINEE RESERVATION MANAGEMENT SYSTEM");
         initialize();
     }
 
